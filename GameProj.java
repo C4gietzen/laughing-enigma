@@ -461,10 +461,5 @@ public class GameProj extends JFrame {
    
    
    
-   public class Block extends GameObject {   
-      
-      public Block( int x_in, int y_in, Color c){
-         super( x_in, y_in, c );
-      }
-   }
+  
 }
